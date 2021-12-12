@@ -16,6 +16,7 @@ extension withing it.
 As a second trial, we created an Android mobile application that import the training model and use it in the realtime 
 detection. For this iteration, we created another training code that train the images and export the model as tflite 
 file. Under iteration 2 there are two folders, which are Data Training Code that includes the python code in 
-two versions, as python file (.py) and jupyter file (.ipynb), with the exported model and the dataset. Sign language 
-recognition app is the Android application and it needs to have Android Studio installed on the device in order to be 
-able to open the project. 
+two versions, as python file (.py) and jupyter file (.ipynb), with the exported model and the dataset. The Sign language 
+recognition app folder is the Android application and it needs to have Android Studio installed on the device in order to be 
+able to open the project and run it (you need to connect to an Android device to run the app as the Android Studio emulator 
+doesn't support the camera). 
